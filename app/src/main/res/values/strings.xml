@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android Simple Wallpaper App</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
 </resources>
