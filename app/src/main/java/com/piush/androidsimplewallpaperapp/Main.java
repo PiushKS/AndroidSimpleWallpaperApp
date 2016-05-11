@@ -205,17 +205,8 @@ public class Main extends Activity {
                             e.printStackTrace();
                         }
                         break;
-
                 }
             }
         });
-
-
-
-
-
-
     }
-
-
 }
